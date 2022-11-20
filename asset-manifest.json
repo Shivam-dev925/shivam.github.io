@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shivam.github.io/static/css/main.bd24e5c8.css",
+    "main.css": "/shivam.github.io/static/css/main.758924f9.css",
     "main.js": "/shivam.github.io/static/js/main.cefe26a2.js",
     "static/js/787.c1112931.chunk.js": "/shivam.github.io/static/js/787.c1112931.chunk.js",
     "static/media/me.jpeg": "/shivam.github.io/static/media/me.d908d26c79e6b481ac36.jpeg",
     "index.html": "/shivam.github.io/index.html",
-    "main.bd24e5c8.css.map": "/shivam.github.io/static/css/main.bd24e5c8.css.map",
+    "main.758924f9.css.map": "/shivam.github.io/static/css/main.758924f9.css.map",
     "main.cefe26a2.js.map": "/shivam.github.io/static/js/main.cefe26a2.js.map",
     "787.c1112931.chunk.js.map": "/shivam.github.io/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd24e5c8.css",
+    "static/css/main.758924f9.css",
     "static/js/main.cefe26a2.js"
   ]
 }
